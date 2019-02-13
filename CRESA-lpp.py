@@ -25,7 +25,7 @@
 """
 ##----INTRO-----------##
 AppName = 'CRESA'
-AppAuthor = 'Pengpeng LiU'
+AppAuthor = 'Pengpeng Liu'
 AppDate = 'May 05, 2016'
 AppFullName = 'CRISPR_Editing_Sequencing_Analysis'
 AppPurpose = 'This program is for CRISPR sequencing analysis.'
